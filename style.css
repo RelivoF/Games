@@ -1,0 +1,11 @@
+.center {
+    text-align: center;
+}
+
+.pixelated {
+    image-rendering: pixelated;
+}
+
+body {
+    background-color: 0xffffff;
+}
